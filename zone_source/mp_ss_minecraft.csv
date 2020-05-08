@@ -1,0 +1,13 @@
+ignore,code_post_gfx_mp
+ignore,common_mp
+ignore,localized_code_post_gfx_mp
+ignore,localized_common_mp
+col_map_mp,maps/mp/mp_ss_minecraft.d3dbsp
+rawfile,maps/mp/mp_ss_minecraft.gsc
+impactfx,mp_ss_minecraft
+sound,common,mp_ss_minecraft,!all_mp
+sound,generic,mp_ss_minecraft,!all_mp
+sound,voiceovers,mp_ss_minecraft,!all_mp
+sound,multiplayer,mp_ss_minecraft,!all_mp
+sound,minecraft,,all_mp
+
